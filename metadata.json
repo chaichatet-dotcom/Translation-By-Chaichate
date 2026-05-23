@@ -1,0 +1,6 @@
+{
+  "name": "Smart Translate AI",
+  "description": "Smart Translate AI leverages Gemini to deliver context-aware, hyper-natural translations, conversational chat, OCR scan, and voice translation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
